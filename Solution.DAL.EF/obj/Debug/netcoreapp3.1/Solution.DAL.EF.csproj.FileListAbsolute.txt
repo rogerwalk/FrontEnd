@@ -1,0 +1,15 @@
+C:\Users\roger\OneDrive\Escritorio\Progra 5\Proyecto\Solution_BackEnd\Solution.DAL.EF\bin\Debug\netcoreapp3.1\Solution.DAL.EF.deps.json
+C:\Users\roger\OneDrive\Escritorio\Progra 5\Proyecto\Solution_BackEnd\Solution.DAL.EF\bin\Debug\netcoreapp3.1\Solution.DAL.EF.dll
+C:\Users\roger\OneDrive\Escritorio\Progra 5\Proyecto\Solution_BackEnd\Solution.DAL.EF\obj\Debug\netcoreapp3.1\Solution.DAL.EF.csprojAssemblyReference.cache
+C:\Users\roger\OneDrive\Escritorio\Progra 5\Proyecto\Solution_BackEnd\Solution.DAL.EF\obj\Debug\netcoreapp3.1\Solution.DAL.EF.AssemblyInfoInputs.cache
+C:\Users\roger\OneDrive\Escritorio\Progra 5\Proyecto\Solution_BackEnd\Solution.DAL.EF\obj\Debug\netcoreapp3.1\Solution.DAL.EF.AssemblyInfo.cs
+C:\Users\roger\OneDrive\Escritorio\Progra 5\Proyecto\Solution_BackEnd\Solution.DAL.EF\bin\Debug\netcoreapp3.1\Solution.DAL.EF.runtimeconfig.json
+C:\Users\roger\OneDrive\Escritorio\Progra 5\Proyecto\Solution_BackEnd\Solution.DAL.EF\bin\Debug\netcoreapp3.1\Solution.DAL.EF.runtimeconfig.dev.json
+C:\Users\roger\OneDrive\Escritorio\Progra 5\Proyecto\Solution_BackEnd\Solution.DAL.EF\bin\Debug\netcoreapp3.1\Solution.DAL.EF.pdb
+C:\Users\roger\OneDrive\Escritorio\Progra 5\Proyecto\Solution_BackEnd\Solution.DAL.EF\obj\Debug\netcoreapp3.1\Solution.DAL.EF.csproj.CoreCompileInputs.cache
+C:\Users\roger\OneDrive\Escritorio\Progra 5\Proyecto\Solution_BackEnd\Solution.DAL.EF\obj\Debug\netcoreapp3.1\Solution.DAL.EF.dll
+C:\Users\roger\OneDrive\Escritorio\Progra 5\Proyecto\Solution_BackEnd\Solution.DAL.EF\obj\Debug\netcoreapp3.1\Solution.DAL.EF.pdb
+C:\Users\roger\OneDrive\Escritorio\Progra 5\Proyecto\Solution_BackEnd\Solution.DAL.EF\obj\Debug\netcoreapp3.1\Solution.DAL.EF.genruntimeconfig.cache
+C:\Users\roger\OneDrive\Escritorio\Progra 5\Proyecto\Solution_BackEnd\Solution.DAL.EF\bin\Debug\netcoreapp3.1\Solution.DO.dll
+C:\Users\roger\OneDrive\Escritorio\Progra 5\Proyecto\Solution_BackEnd\Solution.DAL.EF\bin\Debug\netcoreapp3.1\Solution.DO.pdb
+C:\Users\roger\OneDrive\Escritorio\Progra 5\Proyecto\Solution_BackEnd\Solution.DAL.EF\obj\Debug\netcoreapp3.1\Solution.DAL.EF.csproj.CopyComplete
